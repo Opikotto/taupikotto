@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/taupikotto.github.io/static/css/main.78236893.css",
-    "main.js": "/taupikotto.github.io/static/js/main.f49f744c.js",
-    "static/js/787.a093b508.chunk.js": "/taupikotto.github.io/static/js/787.a093b508.chunk.js",
-    "index.html": "/taupikotto.github.io/index.html",
-    "main.78236893.css.map": "/taupikotto.github.io/static/css/main.78236893.css.map",
-    "main.f49f744c.js.map": "/taupikotto.github.io/static/js/main.f49f744c.js.map",
-    "787.a093b508.chunk.js.map": "/taupikotto.github.io/static/js/787.a093b508.chunk.js.map"
+    "main.css": "/taupikotto/static/css/main.78236893.css",
+    "main.js": "/taupikotto/static/js/main.ff146104.js",
+    "static/js/787.a093b508.chunk.js": "/taupikotto/static/js/787.a093b508.chunk.js",
+    "index.html": "/taupikotto/index.html",
+    "main.78236893.css.map": "/taupikotto/static/css/main.78236893.css.map",
+    "main.ff146104.js.map": "/taupikotto/static/js/main.ff146104.js.map",
+    "787.a093b508.chunk.js.map": "/taupikotto/static/js/787.a093b508.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.78236893.css",
-    "static/js/main.f49f744c.js"
+    "static/js/main.ff146104.js"
   ]
 }
